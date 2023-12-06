@@ -1,0 +1,9 @@
+School Name: Rainbow Schools
+ID Name Class Section
+
+1 Arun X B
+2 Karan X A A
+3 Chitra XII A1
+4 Kalai X D
+5 Mithra VII C
+6 Ranjini IX A

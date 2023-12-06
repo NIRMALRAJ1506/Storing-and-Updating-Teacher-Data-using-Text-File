@@ -1,0 +1,7 @@
+C:\Mphasis dot net\Phase end Project 2\Sort and Updating Teachers Name\Sort and Updating Teachers Name\obj\Debug\Storing and Updating Teachers Name.csproj.AssemblyReference.cache
+C:\Mphasis dot net\Phase end Project 2\Sort and Updating Teachers Name\Sort and Updating Teachers Name\obj\Debug\Storing and Updating Teachers Name.csproj.CoreCompileInputs.cache
+C:\Mphasis dot net\Phase end Project 2\Sort and Updating Teachers Name\Sort and Updating Teachers Name\bin\Debug\Sort and Updating Teachers Name.exe.config
+C:\Mphasis dot net\Phase end Project 2\Sort and Updating Teachers Name\Sort and Updating Teachers Name\bin\Debug\Sort and Updating Teachers Name.exe
+C:\Mphasis dot net\Phase end Project 2\Sort and Updating Teachers Name\Sort and Updating Teachers Name\bin\Debug\Sort and Updating Teachers Name.pdb
+C:\Mphasis dot net\Phase end Project 2\Sort and Updating Teachers Name\Sort and Updating Teachers Name\obj\Debug\Sort and Updating Teachers Name.exe
+C:\Mphasis dot net\Phase end Project 2\Sort and Updating Teachers Name\Sort and Updating Teachers Name\obj\Debug\Sort and Updating Teachers Name.pdb
